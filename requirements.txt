@@ -149,7 +149,6 @@ python-dateutil==2.8.2
 python-multipart==0.0.6
 pytz==2022.6
 pytz-deprecation-shim==0.1.0.post0
-pywin32==305
 pywinpty==2.0.9
 PyYAML==6.0
 pyzmq==24.0.1
