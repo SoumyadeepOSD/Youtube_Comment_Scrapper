@@ -139,6 +139,7 @@ PyJWT==2.6.0
 Pympler==1.0.1
 pynecone-io==0.1.13
 pyparsing==3.0.9
+pypiwin32==223
 pypng==0.20220715.0
 PyQRCode==1.2.1
 pyrsistent==0.19.2
